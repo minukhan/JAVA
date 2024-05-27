@@ -1,0 +1,11 @@
+server:
+  port: 8085
+
+spring:
+  thymleaf:
+    cache: false
+
+
+  datasource:
+    generate-unique-name: false
+    name: tacocloud
